@@ -15,9 +15,9 @@ The BMI Calculator App is a user-friendly mobile application designed to help us
 ![bmi_n](https://github.com/user-attachments/assets/f80eaef3-c7fb-4b2f-a4cb-401ff6ebd5a3)
 ![bmi_o](https://github.com/user-attachments/assets/aa606d74-7e1f-46a0-8df0-14409519336e)
 
-<img src="https://github.com/user-attachments/assets/bmi_result.png" alt="BMI Result Screen" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/bmi_input.png" alt="BMI Input Screen" width="300"/>
+<img src="[https://github.com/user-attachments/assets/bmi_result.png](https://github.com/user-attachments/assets/13392736-8771-4646-b600-8790d3196362)"  width="300"/>
+<img src="[https://github.com/user-attachments/assets/bmi_input.png](https://github.com/user-attachments/assets/f80eaef3-c7fb-4b2f-a4cb-401ff6ebd5a3)"  width="300"/>
+<img src="[https://github.com/user-attachments/assets/aa606d74-7e1f-46a0-8df0-14409519336e)"  width="300"/>
 
 
 
